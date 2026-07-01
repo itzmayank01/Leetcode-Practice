@@ -8,6 +8,7 @@ Everyone starts from Zero
 | ------- |
 | [0283-move-zeroes](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
