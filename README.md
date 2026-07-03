@@ -6,6 +6,7 @@ Everyone starts from Zero
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -18,6 +19,7 @@ Everyone starts from Zero
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
