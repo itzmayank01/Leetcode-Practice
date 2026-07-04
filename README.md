@@ -7,6 +7,7 @@ Everyone starts from Zero
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -14,6 +15,7 @@ Everyone starts from Zero
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -28,6 +30,7 @@ Everyone starts from Zero
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
