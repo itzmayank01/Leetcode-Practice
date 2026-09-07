@@ -1,16 +1,19 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        map <int,int> mpp;
-        int n = nums.size();
-        for(int i = 0; i<n; i++) {
-            int num = nums[i];
-            int moreneeded = target-num;
-            if (mpp.find(moreneeded) != mpp.end()) {
-                return {mpp[moreneeded], i};
-            }
-            mpp[num] = i;
+     unordered_map<int, int> seen;
+
+     for(int i = 0;i<nums.size(); i++){
+        int current = nums[i];
+        int needed = target - current;
+        if (seen.find(needed) != seen.end()) {
+          return {seen [needed], i};
         }
-        return {-1, -1};
+          seen[current] = i;
+        }  
+        return {}; 
     }
 };
