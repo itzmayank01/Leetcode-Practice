@@ -61,4 +61,8 @@ Everyone starts from Zero
 | ------- |
 | [0053-maximum-subarray](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/itzmayank01/Leetcode-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
