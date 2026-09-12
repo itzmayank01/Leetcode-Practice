@@ -18,6 +18,7 @@ Everyone starts from Zero
 | [0283-move-zeroes](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/itzmayank01/Leetcode-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Everyone starts from Zero
 | ------- |
 | [0053-maximum-subarray](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itzmayank01/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/itzmayank01/Leetcode-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Database
 |  |
 | ------- |
