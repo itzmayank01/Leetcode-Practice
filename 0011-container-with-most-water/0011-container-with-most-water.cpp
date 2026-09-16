@@ -16,7 +16,7 @@ public:
             int area = h * w;
             max_water = max(max_water, area);
 
-            if (height[i] >height[j]) {
+            if (height[i] > height[j]) {
                 j--;
             }
             else {
